@@ -38,5 +38,8 @@ The data cleaning steps included:
 # Visualization
 Charts were created using ggplot2 to show sales by category
 
+Sales by Category Chart
+![Sales by Category](sales_by_category.png)
+
 # Conclusion
 This analysis demonstrates how data cleaning and exploratory analysis can reveal important sales patterns. The West region generated the highest sales, indicating stronger purchasing activity compared to other regions. The Technology category outperformed others and contributed the most revenue, making it a key driver of business performance.
