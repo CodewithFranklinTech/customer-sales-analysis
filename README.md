@@ -38,7 +38,6 @@ The data cleaning steps included:
 # Visualization
 Charts were created using ggplot2 to show sales by category
 
-Sales by Category Chart
 ![Sales by Category](Sales_by_Category.png)
 
 # Conclusion
